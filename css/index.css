@@ -1,0 +1,33 @@
+/* PACKAGE SECTION START */
+
+#package {
+  width: 100%;
+  background: #fff;
+}
+#package .package_img {
+  margin-top: 20px;
+  position: relative;
+}
+#package .package_img h4 {
+  position: absolute;
+  top: 85px;
+  left: 53px;
+}
+/* PACKAGE SECTION END */
+
+#sack {
+  width: 100%;
+  background: #fff;
+}
+#sack .text {
+  margin-top: 30px;
+}
+#sack .sack_img {
+  margin-top: 20px;
+  position: relative;
+}
+#sack .sack_img h4 {
+  position: absolute;
+  top: 100px;
+  left: 55px;
+}

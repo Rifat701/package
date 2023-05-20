@@ -1,0 +1,35 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 575.98px) {
+  #package .package_img {
+    width: 170px;
+  }
+  #sack .sack_img {
+    width: 170px;
+  }
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #package .package_img h4 {
+    position: absolute;
+    top: 140px;
+    left: 97px;
+  }
+  #sack .sack_img h4 {
+    position: absolute;
+    top: 160px;
+    left: 97px;
+  }
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #package .package_img h4 {
+    position: absolute;
+    top: 117px;
+    left: 78px;
+  }
+  #sack .sack_img h4 {
+    position: absolute;
+    top: 132px;
+    left: 80px;
+  }
+}
